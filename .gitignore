@@ -3,8 +3,6 @@
 /node_modules
 
 /mongo
-/mongo/journal
-/mongo/diagnostic.data
 
 # Logs
 logs
