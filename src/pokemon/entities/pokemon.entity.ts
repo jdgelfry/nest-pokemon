@@ -16,7 +16,7 @@ export class Pokemon extends Document{
         unique: true,
         index: true,
     })
-    no: string;
+    no: number;
 }
 
 // se crea el esquema de la entidad en base a la clase Pokemon en la base de datos
